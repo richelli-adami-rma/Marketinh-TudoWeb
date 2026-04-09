@@ -4,7 +4,7 @@ bom = 0
 ruim = 0
 
 # Defina aqui a quantidade de entrevistados
-quantidade = 10
+quantidade = 50
 
 # Estrutura de repetição FOR
 for i in range(quantidade):
