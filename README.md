@@ -3,7 +3,7 @@ excelente = 0
 bom = 0
 ruim = 0
 
-# Defina aqui a quantidade de entrevistados (10 para teste, depois mude para 50)
+# Defina aqui a quantidade de entrevistados
 quantidade = 10
 
 # Estrutura de repetição FOR
